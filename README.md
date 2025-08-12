@@ -1,3 +1,22 @@
+# ⚠️ REPOSITORY MIGRATED
+
+This project has been migrated to the SCCN organization:
+
+## 🔗 New Location: [sccn/nemar-citations](https://github.com/sccn/nemar-citations)
+
+**Please update your bookmarks and use the new repository for:**
+- Issues and bug reports
+- Feature requests  
+- Pull requests
+- Documentation
+
+This repository is archived and no longer maintained.
+
+---
+
+For the latest version of NEMAR Citations, visit:
+**https://github.com/sccn/nemar-citations**
+---
 # Dataset Citations
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
